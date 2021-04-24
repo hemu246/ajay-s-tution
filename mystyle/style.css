@@ -9,6 +9,8 @@
 }
 .slide{
     height: 35rem;
+    width: 80%;
+    margin: auto;
 }
 .brandphoto{
    margin-left: auto;
